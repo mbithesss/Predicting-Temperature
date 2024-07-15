@@ -15,3 +15,5 @@ We will be working with data stored in `london_weather.csv`, which contains the 
 - **precipitation** - precipitation measurement in millimeters (mm) - (**float**)
 - **pressure** - pressure measurement in Pascals (Pa) - (**float**)
 - **snow_depth** - snow depth measurement in centimeters (cm) - (**float**)
+
+  See Project [Here] (https://github.com/mbithesss/Predicting-Temperature/blob/main/notebook%20(1).ipynb).
